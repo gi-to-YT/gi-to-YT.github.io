@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.gi_to_yt.yubitype",
+      "sha256_cert_fingerprints": [
+        "53:54:CD:13:10:A9:4A:77:69:14:D5:4B:9B:EE:CF:62:47:43:2B:04:77:16:C8:2F:FD:21:42:1C:B6:45:79:E6"
+      ]
+    }
+  }
+]
